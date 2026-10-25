@@ -1,0 +1,77 @@
+{
+  "mode": "Built-in image_gen",
+  "date": "2026-10-25",
+  "styleMaster": "../Standard/2D_test/defense-v1.png",
+  "assets": [
+    {
+      "key": "standard-prosecution",
+      "file": "Standard/prosecution-v1.png",
+      "compositionReference": "../Standard/prosecution.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. The standard PROSECUTION position. Preserve the mirrored opposing-side view, gallery balustrade, central wood panels and bottom rail of image 1, including left-right orientation. No prosecutor."
+    },
+    {
+      "key": "standard-judge",
+      "file": "Standard/judge-v1.png",
+      "compositionReference": "../Standard/judge.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. The standard JUDGE position. Preserve the large gold scales medallion, empty tall chair, arched architecture, paired lamps and bench across lower edge. No judge."
+    },
+    {
+      "key": "standard-witness",
+      "file": "Standard/witness-v1.png",
+      "compositionReference": "../Standard/witness.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. The standard WITNESS position. Preserve symmetrical doors and steps, gold finial posts, gallery and bottom witness podium. Retain the existing spectators only as subdued flat 2D background silhouettes, not detailed or prominent individual faces; center witness space remains empty."
+    },
+    {
+      "key": "standard-overview",
+      "file": "Standard/overview-v1.png",
+      "compositionReference": "../Standard/overview.jpg",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. The standard courtroom OVERVIEW. Preserve the same complete room, judge bench at center back, facing lawyers' benches, gallery balustrades, skylight, central empty witness chair and floor perspective. No lawyers, witnesses or judge."
+    },
+    {
+      "key": "khurain-defense",
+      "file": "Khura_in/defense-v1.png",
+      "compositionReference": "../Khura_in/defense.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. KHURA'IN DEFENSE position. Preserve the tall orange pillars, purple drapes and patterned frieze, lanterns, windows and thin bottom rail. Retain Khura'in's distinctive Tibetan-inspired architecture and rich orange/purple/gold/teal palette, with the same 2D rendering technique as the style master. No attorney."
+    },
+    {
+      "key": "khurain-prosecution",
+      "file": "Khura_in/prosecution-v1.png",
+      "compositionReference": "../Khura_in/prosecution.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. KHURA'IN PROSECUTION position. Preserve this opposing-side camera view and left-right orientation of orange pillars, purple banners/frieze, windows, lanterns and thin bottom rail. Retain distinctive Khura'in architecture and orange/purple/gold palette. No prosecutor."
+    },
+    {
+      "key": "khurain-cocounsel",
+      "file": "Khura_in/cocounsel-v1.png",
+      "compositionReference": "../Khura_in/cocounsel.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. KHURA'IN CO-COUNSEL position. Preserve orange pillar left, purple drapery above, dark gallery, ornate lantern right and foreground desk corner at lower right. Subdued background gallery spectators may remain as flat shadowed painted silhouettes. No foreground assistant."
+    },
+    {
+      "key": "khurain-judge",
+      "file": "Khura_in/judge-v1.png",
+      "compositionReference": "../Khura_in/judge.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. KHURA'IN JUDGE position. Preserve the large turquoise-and-purple butterfly emblem, hanging decorative pillars, golden lanterns and empty blue/teal judge chair above the ornate bench. Keep Khura'in palette and original symmetry. No judge."
+    },
+    {
+      "key": "khurain-witness",
+      "file": "Khura_in/witness-v1.png",
+      "compositionReference": "../Khura_in/witness.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. KHURA'IN WITNESS position. Preserve center double doors and steps, orange/gold lotus finial posts, turquoise rails, purple drapes and red/teal/gold curved witness podium. Keep gallery audience as subdued 2D silhouettes, and center witness position empty."
+    },
+    {
+      "key": "khurain-overview",
+      "file": "Khura_in/overview-v1.png",
+      "compositionReference": "../Khura_in/isometric.webp",
+      "styleReference": "../Standard/2D_test/defense-v1.png",
+      "prompt": "Use case: style-transfer. Asset: one clean background image for objection.lol. Image 1 is the exact composition and architecture target; image 2 is the APPROVED 2D STYLE MASTER from this same courtroom set. Redraw image 1 using image 2's crisp hand-drawn contour edges, warm cel-painted color blocks, simplified clean shadows and restrained smooth gradients, like a restored Apollo Justice Ace Attorney 2D visual-novel background. Match the approved master, not photorealism, CGI, blurry 3D textures, heavy brush texture or pixelation. Preserve the target's camera angle, framing, major architecture, object placement, scale, perspective and unobstructed character silhouette area. Do not replace target architecture with the master's architecture. No text, watermarks, borders, dialogue/UI, comparison panels, or main characters. Produce only the complete scene edge to edge, landscape approximately 5:3. No newly invented objects. KHURA'IN courtroom OVERVIEW. Preserve the complete temple courtroom, orange columns, flowing purple drapery, ornate lanterns, turquoise/red/gold benches and central Pool of Souls with sacred floor markings, with the judge's butterfly emblem in the distance. Same exact overview camera framing as image 1. No foreground characters or added people."
+    }
+  ]
+}
